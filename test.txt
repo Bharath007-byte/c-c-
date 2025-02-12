@@ -1,4 +1,13 @@
-fight club and seven is directed by david fincher
+ fight club and seven is directed by david fincher
 bahubali 1 and 2 is directed by rajamouli
 prabhas is biggest pan india star
-:
+:indi
+#include <stdio.h>
+int main() {
+int a=10;
+int b=20;
+int sum;
+sum=a+b;
+printf("sum of numbers is%d",sum);
+return 0;
+}
