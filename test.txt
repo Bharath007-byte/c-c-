@@ -7,7 +7,17 @@ int main() {
 int a=10;
 int b=20;
 int sum;
+int sub;
+int multi;
+int divi;
 sum=a+b;
+sub=a-b;
+multi=a*b;
+divi=a%b;
 printf("sum of numbers is%d",sum);
+printf("sub of numbers is%d",sub);
+printf("multi of numbers is%d",multi);
+printf("divi of numbers is%d",divi);
 return 0;
-}
+code completed
+
