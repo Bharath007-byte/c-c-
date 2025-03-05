@@ -20,4 +20,19 @@ printf("multi of numbers is%d",multi);
 printf("divi of numbers is%d",divi);
 return 0;
 code completed
+code 2
+
+#include <stdio.h>
+int main() {
+int a;
+printf("enter the number");
+scanf("%d",&a);
+if(a%2==0){
+printf("number is even %d";a);
+}
+else {
+printf("number is odd);
+}
+return 0;
+}
 
