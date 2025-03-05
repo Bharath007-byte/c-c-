@@ -35,4 +35,7 @@ printf("number is odd);
 }
 return 0;
 }
+code 3
+#include <stdio.h>
+int main() {
 
