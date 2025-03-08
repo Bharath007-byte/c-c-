@@ -4,6 +4,6 @@ int main() {
     int remainder;
     remainder=a%10;
     printf("modulus is %d",remainder);
-
+	
     return 0;
-}
+} i am bharath
