@@ -7,3 +7,15 @@ int main() {
 	
     return 0;
 } i am bharath
+#include <stdio.h>
+// finding area of square
+int main() {
+    int side_a,side_b;
+    printf("enter the first side:");
+    scanf("%d",&side_a);
+    printf("enter the second side:");
+    scanf("%d",&side_b);
+    int square = side_a*side_b;
+    printf("area of square is %d",square);
+    return 0;
+}
