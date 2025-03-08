@@ -1,0 +1,5 @@
+c lang code
+#include <stdio.h>
+int main() {
+inta,b;
+printf("enter number 1:");
