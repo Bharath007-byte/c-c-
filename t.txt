@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    int a=53;
+    int remainder;
+    remainder=a%10;
+    printf("modulus is %d",remainder);
+
+    return 0;
+}
