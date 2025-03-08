@@ -3,3 +3,7 @@ c lang code
 int main() {
 inta,b;
 printf("enter number 1:");
+scanf("%d",a);
+printf("enter number 2:");
+scanf("%d",b);
+
