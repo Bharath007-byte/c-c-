@@ -23,4 +23,5 @@ scanf("%d",&a);
 printf("enter number2:");
 scanf("%d",&b);
 for (a%2==0) {
-
+printf("number is even number");
+}
