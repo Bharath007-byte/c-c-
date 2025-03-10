@@ -25,7 +25,8 @@ these are two c language codes
 int main() {
 int i;
 int a=10;
-for (i=1;i<=a;i++);
-
-
-for
+for (i=1;i<=a;i++);{
+printf("%d\n",i);
+}
+return 0;
+}
