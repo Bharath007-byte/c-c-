@@ -18,4 +18,5 @@ int main() {
     int square = side_a*side_b;
     printf("area of square is %d",square);
     return 0;
-}
+} code completed
+these are two c language codes
