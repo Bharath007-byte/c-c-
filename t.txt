@@ -9,4 +9,7 @@ printf("enter number 2:");
 scanf("%d",b);
 sum=a+b;
 printf("sum of numbers %d",sum);
+return 0;
+}
+code completed succesfully
  
