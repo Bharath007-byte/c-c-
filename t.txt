@@ -30,3 +30,5 @@ printf("%d\n",i);
 }
 return 0;
 }
+complted another code
+if you foud any  error then correct it  
