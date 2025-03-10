@@ -2,8 +2,11 @@ c lang code
 #include <stdio.h>
 int main() {
 inta,b;
+int sum;
 printf("enter number 1:");
 scanf("%d",a);
 printf("enter number 2:");
 scanf("%d",b);
-
+sum=a+b;
+printf("sum of numbers %d",sum);
+ 
