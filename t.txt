@@ -20,3 +20,12 @@ int main() {
     return 0;
 } code completed
 these are two c language codes
+
+#include <stdio.h>
+int main() {
+int i;
+int a=10;
+for (i=1;i<=a;i++);
+
+
+for
