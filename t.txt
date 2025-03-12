@@ -48,3 +48,7 @@ case '+' :
 sum=a+b;
 printf("%d is sum of number",sum);
 break;
+case '-':
+sub=a-b;
+printf("sub of num is %d",sub);
+break;
