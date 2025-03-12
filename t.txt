@@ -40,4 +40,7 @@ int main() {
 int a;
 printf("enter number:");
 scanf("%d",&a);
-  
+for (a%2==0){
+printf("it is a even number");
+}
+else   
