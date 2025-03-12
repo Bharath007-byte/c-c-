@@ -47,4 +47,6 @@ else {
 printf("it is a odd number");
 }
 return 0;
-}   
+}
+code completed succesfully
+find errors in it   
