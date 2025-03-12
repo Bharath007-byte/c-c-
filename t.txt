@@ -30,4 +30,17 @@ printf("it is odd number");
 }
 return 0;
 }
+code completed succesfully
+
+code3
+#include <stdio.h>
+int main(){
+char op;
+int a,b;
+int sum,sub,multi,division;
+printf("choose the character(+,-,/,*");
+scanf("%c",&op);
+printf("enter numbers:");
+scanf("%d %d",&a,&b);
+scanf("%c",&c);
 
