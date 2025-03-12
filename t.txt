@@ -43,4 +43,8 @@ scanf("%d",&a);
 for (a%2==0){
 printf("it is a even number");
 }
-else   
+else {
+printf("it is a odd number");
+}
+return 0;
+}   
