@@ -36,4 +36,8 @@ if you foud any  error then correct it
 another code on switch case
 
 #include <stdio.h>
-int main() {  
+int main() {
+int a;
+printf("enter number:");
+scanf("%d",&a);
+  
