@@ -43,4 +43,8 @@ scanf("%c",&op);
 printf("enter numbers:");
 scanf("%d %d",&a,&b);
 scanf("%c",&c);
-
+switch(op) {
+case '+' :
+sum=a+b;
+printf("%d is sum of number",sum);
+break;
