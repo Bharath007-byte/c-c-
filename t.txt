@@ -25,3 +25,9 @@ scanf("%d",&b);
 for (a%2==0) {
 printf("number is even number");
 }
+else {
+printf("it is odd number");
+}
+return 0;
+}
+
