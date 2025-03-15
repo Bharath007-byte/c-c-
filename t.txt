@@ -60,4 +60,9 @@ case '/':
 division=a/b;
 printf("div of number is %d",division);
 break;
-
+default:
+printf("incorrect character");
+break;
+return 0;
+}
+code completed succesfully
