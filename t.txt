@@ -49,4 +49,10 @@ printf("it is a odd number");
 return 0;
 }
 code completed succesfully
-find errors in it   
+find errors in it
+another code
+#include <stdio.h>
+int main(){
+int phy,mat,che,bio;
+printf("enter physics marks:");
+scanf("%d",&phy);   
