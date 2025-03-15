@@ -55,4 +55,10 @@ another code
 int main(){
 int phy,mat,che,bio;
 printf("enter physics marks:");
-scanf("%d",&phy);   
+scanf("%d",&phy);
+printf("enter maths marks:");
+scanf("%d",&mat);
+printf("enter chemistry marks");
+scanf("%d",&che);
+printf("enter biology marks:");
+scanf("%d",&bio);   
