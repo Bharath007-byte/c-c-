@@ -56,3 +56,8 @@ case '*':
 mult=a*b;
 printf("multiplication of num is %d",sub);
 break;
+case '/':
+division=a/b;
+printf("div of number is %d",division);
+break;
+
