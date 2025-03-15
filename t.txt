@@ -53,7 +53,7 @@ find errors in it
 another code
 #include <stdio.h>
 int main(){
-int phy,mat,che,bio;
+int phy,mat,che,bio,avg;
 printf("enter physics marks:");
 scanf("%d",&phy);
 printf("enter maths marks:");
@@ -61,4 +61,9 @@ scanf("%d",&mat);
 printf("enter chemistry marks");
 scanf("%d",&che);
 printf("enter biology marks:");
-scanf("%d",&bio);   
+scanf("%d",&bio);
+avg=phy+mat+che+bio/4;
+if(avg>=90) {
+printf("A grade");
+}
+   
