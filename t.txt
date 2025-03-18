@@ -71,4 +71,9 @@ printf("B grade");
 }
 else if (avg>=60){
 printf("c grade");
+}
+else {
+printf("fail");
+}
+return 0;
 }   
