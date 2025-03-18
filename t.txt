@@ -66,6 +66,9 @@ avg=phy+mat+che+bio/4;
 if(avg>=90) {
 printf("A grade");
 }
-if (avg>=70){
+else if (avg>=70){
 printf("B grade");
+}
+else if (avg>=60){
+printf("c grade");
 }   
