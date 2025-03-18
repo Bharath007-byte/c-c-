@@ -76,4 +76,6 @@ else {
 printf("fail");
 }
 return 0;
-}   
+}
+code succesfully completed
+   
