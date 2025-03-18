@@ -66,3 +66,7 @@ break;
 return 0;
 }
 code completed succesfully
+
+#include <stdio.h>
+int main() {
+int age;
