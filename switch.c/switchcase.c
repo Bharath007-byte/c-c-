@@ -10,4 +10,6 @@ break;
 case 2:
 printf("aiml branch");
 break;
-
+case 3:
+printf("ECE branch");
+break;
