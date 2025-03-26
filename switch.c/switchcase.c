@@ -13,3 +13,9 @@ break;
 case 3:
 printf("ECE branch");
 break;
+case 4:
+printf("mec branch");
+break;
+deafult :
+printf("invalid number");
+
