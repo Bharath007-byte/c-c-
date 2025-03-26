@@ -7,4 +7,7 @@ switch(branch){
 case 1:
 printf("B-tech branch");
 break;
+case 2:
+printf("aiml branch");
+break;
 
