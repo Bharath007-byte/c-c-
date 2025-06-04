@@ -42,3 +42,4 @@ int a,b;
 printf("enter number1:);
 scanf("%d",a);
 printf("enter number2:);
+scanf("%d",b);

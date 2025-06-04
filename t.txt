@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 int main() {
     int a=53;
@@ -45,10 +46,41 @@ printf("it is a even number");
 }
 else {
 printf("it is a odd number");
+c lang code
+#include <stdio.h>
+int main() {
+inta,b;
+int sum;
+printf("enter number 1:");
+scanf("%d",a);
+printf("enter number 2:");
+scanf("%d",b);
+sum=a+b;
+printf("sum of numbers %d",sum);
+return 0;
+}
+code completed succesfully
+ 
+code 2
+
+#include <stdio.h>
+int main() {
+int a,b;
+printf("enter number 1:");
+scanf("%d",&a);
+printf("enter number2:");
+scanf("%d",&b);
+for (a%2==0) {
+printf("number is even number");
+}
+else {
+printf("it is odd number");
+
 }
 return 0;
 }
 code completed succesfully
+
 find errors in it
 another code
 #include <stdio.h>
@@ -80,3 +112,44 @@ return 0;
 code succesfully completed
 
 writing another code   
+=======
+
+code3
+#include <stdio.h>
+int main(){
+char op;
+int a,b;
+int sum,sub,multi,division;
+printf("choose the character(+,-,/,*");
+scanf("%c",&op);
+printf("enter numbers:");
+scanf("%d %d",&a,&b);
+scanf("%c",&c);
+switch(op) {
+case '+' :
+sum=a+b;
+printf("%d is sum of number",sum);
+break;
+case '-':
+sub=a-b;
+printf("sub of num is %d",sub);
+break;
+case '*':
+mult=a*b;
+printf("multiplication of num is %d",sub);
+break;
+case '/':
+division=a/b;
+printf("div of number is %d",division);
+break;
+default:
+printf("incorrect character");
+break;
+return 0;
+}
+code completed succesfully
+
+#include <stdio.h>
+int main() {
+int age;
+
